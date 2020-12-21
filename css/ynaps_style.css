@@ -1,0 +1,35 @@
+.header_bg{background: #005F6C;}
+.nav-item a{margin-right: 6px; color: #fff !important;font-weight: 500;}
+.bg_footer{background: #339589;}
+.bg_footer li {list-style-type: none; color: #eee;}
+.bg_footer a {color: #eee;}
+.bg_footer hr {border: 1px solid #AB7A9F;}
+.bags_footer_muted{color: silver;}
+.bags_footer_muted a{color: silver;}
+
+body{padding: 0px !important;margin: 0px !important; background-image: linear-gradient(#8fbfbf, white);}
+.container{width: 80% !important; max-width: 1600px; color: black;}
+.breakblank{ margin-bottom: 100px }
+.theslider_boots{max-height: 400px;overflow: hidden;}
+.the_isonhsgt{font-size: 70px;color: #455 !important;}
+.thebig_text{font-size: 20px;font-weight: 500;}
+.thelists_s90 li{list-style: none;margin-bottom: 10px;}
+.theslist_9s li{margin-bottom: 10px;}                        #94e8eb #87adad
+.theforms_sios{max-width: 400px;border: 1px solid #ddd;}
+.theborder_table{border: 1px solid #333;height: 300px;padding-left: 20px;}
+.theborder_table td{border: 1px solid #333;padding-left: 20px;}
+
+.animate{ transition: transform .8s; /* Animation */ }
+.animate:hover{ transform: scale(1.05); }
+
+.no_link{color: inherit;text-decoration: none;}
+.therow_val{margin-bottom: 55px !important;}
+.therow_val img{border: 2px solid #ddd;}
+
+.bg_detai{background: #eee;}
+.the_form_contact{border: 1px solid #333; max-width: 450px;margin: 10px auto;}
+
+@media only screen and (max-width: 600px) {
+  .container{width: 100% !important;max-width: none;}
+  .theslider_boots{height: auto;}
+}
